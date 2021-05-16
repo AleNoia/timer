@@ -1,5 +1,5 @@
 # 🕰️ Timer
- A timer to measuring time intervals.
+ A simple timer to measuring time intervals.
  
 If you have any question, suggestion or want to contact, mail me:
 

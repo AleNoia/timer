@@ -16,8 +16,8 @@ function getTime(sec) {
     });
 }
 
-// Insert a string on the HTML
-function insertTimer() {
+// Insert a string on the HTML and start the timer
+function startTimer() {
     clearInterval(timer)
     timer = setInterval(function () {
         seconds++
@@ -39,7 +39,7 @@ document.addEventListener('click', function (e) {
 
     // Start timer
     if (el.classList.contains('start')) {
-        insertTimer()
+        startTimer()
     }
 
     // Stop timer

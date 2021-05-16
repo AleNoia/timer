@@ -1,8 +1,5 @@
 function timer() {
     // ================================================================= [VARIABLES]
-    const startBtn = document.querySelector('.start')
-    const stopBtn = document.querySelector('.stop')
-    const resetBtn = document.querySelector('.reset')
     const clock = document.querySelector('.clock')
     let seconds = 0 // variable of the time to manipulate
     let timer; // variable of the setInterval to use clearInterval

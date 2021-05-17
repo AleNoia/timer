@@ -1,4 +1,4 @@
-function timer() {
+(function() {
     // ================================================================= [VARIABLES]
     const clock = document.querySelector('.clock')
     let seconds = 0 // variable of the time to manipulate
@@ -51,6 +51,5 @@ function timer() {
         }
 
     });
-}
+})()
 
-timer();

@@ -1,9 +1,9 @@
 # 🕰️ Timer
- A simple timer to measuring time intervals.
- 
-If you have any question, suggestion or want to contact, mail me:
+ A simple timer to measuring time interval implemented swith JavaScript
 
-📧 igornoiasilva@gmail.com.
+If you want to contact, mail me or send a message on Twitter
+
+📧 igornoiasilva@gmail.com / ☕ [@IgorNoiaSilva](https://twitter.com/IgorNoiaSilva)
 
 ***
 # 📌 Table of Contents
